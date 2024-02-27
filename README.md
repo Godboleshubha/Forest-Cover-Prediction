@@ -1,4 +1,6 @@
 # Forest-Cover-Prediction
+![image](https://github.com/Godboleshubha/Forest-Cover-Prediction/assets/160310212/82fc5cb9-5cda-4884-9a27-eefd78bf8d74)
+
 Target is to create a predictive model which helps to predict seven different cover types in four different wilderness areas of the Forest with the best accuracy
 # Forest-Cover-Prediction
 Target is to create a predictive model which helps to predict seven different cover types in four different wilderness areas of the Forest with the best accuracy
